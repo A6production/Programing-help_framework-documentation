@@ -37,11 +37,6 @@ const config = {
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/A6production/Programing-help_framework-documentation',
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -94,16 +89,20 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Official Website',
+                href: 'https://programing-help.com',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.com/invite/6DVkYFdBJZ',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/ProgramingHelp',
+              },
+              {
+                label: 'Email',
+                href: 'mailto:dev@programing-help.com',
               },
             ],
           },
@@ -114,14 +113,10 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Programing-help Framework, Programing-help`,
       },
       prism: {
         theme: prismThemes.github,
