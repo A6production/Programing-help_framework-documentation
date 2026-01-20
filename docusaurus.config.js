@@ -1,8 +1,8 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Programing-help',
+  tagline: 'The official Programing-help python framework',
   favicon: 'img/favicon.ico',
   future: {
     v4: true,
@@ -26,8 +26,6 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl:
-            'https://github.com/A6production/Programing-help_framework-documentation',
         },
         blog: {
           showReadingTime: true,
@@ -53,9 +51,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Programing-help',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Programing-help Logo',
           src: 'img/logo.svg',
         },
         items: [
