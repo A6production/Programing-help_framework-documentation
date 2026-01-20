@@ -27,7 +27,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
-        blog: {
+        changelog: {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
