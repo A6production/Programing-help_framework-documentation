@@ -1,5 +1,5 @@
 ---
-slug: first-blog-post
+slug: first-changelog-post
 title: First Blog Post
 authors: [slorber, yangshun]
 tags: [hola, docusaurus]

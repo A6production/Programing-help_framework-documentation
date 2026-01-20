@@ -1,5 +1,5 @@
 ---
-slug: long-blog-post
+slug: long-changelog-post
 title: Long Blog Post
 authors: yangshun
 tags: [hello, docusaurus]
