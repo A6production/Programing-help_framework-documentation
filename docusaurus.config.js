@@ -27,7 +27,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
-        changelog: {
+        blog: {
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -60,7 +60,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/changelog', label: 'Changelog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/ProgramingHelp/Programing-help_Framework',
             label: 'GitHub',
@@ -105,8 +105,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Changelog',
-                to: '/changelog',
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
