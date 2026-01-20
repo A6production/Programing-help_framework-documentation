@@ -33,8 +33,6 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -45,7 +43,6 @@ const config = {
 
   themeConfig:
     ({
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       colorMode: {
         respectPrefersColorScheme: true,
@@ -54,7 +51,7 @@ const config = {
         title: 'Programing-help',
         logo: {
           alt: 'Programing-help Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon_white.png',
         },
         items: [
           {
@@ -63,9 +60,9 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/changelog', label: 'Changelog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ProgramingHelp/Programing-help_Framework',
             label: 'GitHub',
             position: 'right',
           },
@@ -108,8 +105,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Changelog',
+                to: '/changelog',
               },
             ],
           },
