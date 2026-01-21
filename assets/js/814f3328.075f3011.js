@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocumentation=globalThis.webpackChunkdocumentation||[]).push([[7472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"The Programing-help Framework Documentation","permalink":"/Programing-help_framework-documentation/blog/documentation","unlisted":false,"date":"2026-01-21T00:00:00.000Z"}]}')}}]);
