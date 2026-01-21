@@ -1,0 +1,8 @@
+{
+  "label": "Logger",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "A simple logger for console and log files"
+  }
+}

@@ -1,4 +1,7 @@
-# Documentation introduction
+---
+sidebar_position: 1
+---
+# Documentation Introduction
 This is the official Programing-help Framework documentation. This is an open source python library for developers with a lot of functions.
 
 If you have any questions you can ask in Github Discussions

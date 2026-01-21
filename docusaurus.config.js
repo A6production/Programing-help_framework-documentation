@@ -8,7 +8,7 @@ const config = {
     v4: true,
   },
   url: 'https://A6production.github.io',
-  baseUrl: 'Programing-help_framework-documentation',
+  baseUrl: 'Programing-help_framework-documentation/',
 
   organizationName: 'Programing-help',
   projectName: 'Programing-help Framework documentation',
@@ -51,7 +51,8 @@ const config = {
         title: 'Programing-help',
         logo: {
           alt: 'Programing-help Logo',
-          src: 'img/favicon_white.png',
+          src: 'img/favicon.ico',
+          srcDark: "img/favicon_white.png"
         },
         items: [
           {
@@ -108,6 +109,10 @@ const config = {
                 label: 'Blog',
                 to: '/blog',
               },
+              {
+                  label: 'Made with Docusaurus',
+                  href: 'https://docusaurus.io/',
+              }
             ],
           },
         ],
