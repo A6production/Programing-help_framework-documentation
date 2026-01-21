@@ -1,8 +1,8 @@
 {
-  "label": "Logger",
+  "label": "Plugins",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "A simple logger for console and log files"
+    "description": "A powerful solution for creating and managing plugins"
   }
 }

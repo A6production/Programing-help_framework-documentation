@@ -5,7 +5,7 @@ sidebar_position: 2
 # Load Config
 Loading the config from a file
 
-To load a config file you can use the `config.load()`
+To load a config file you can use the `config.load()` function
 
 ```python
 from programing_help_framework import Configs

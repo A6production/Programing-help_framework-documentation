@@ -23,7 +23,7 @@ Or if you use all the modules you can import it using
 from programing_help_framework import *
 ```
 
-To start using the module you have to assign the Configs to a variable
+To start using the module you have to assign the Plugins to a variable
 
 ```python
 from programing_help_framework import Plugins

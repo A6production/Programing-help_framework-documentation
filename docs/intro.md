@@ -6,7 +6,7 @@ This is the official Programing-help Framework documentation. This is an open so
 
 If you have any questions you can ask in Github Discussions
 
-If you encounter / found any issues you can tell us about then in Github Issues
+If you encounter / found any issues you can tell us about them in Github Issues
 
 This is an open source library, so you can always fork it or make a pull request that can later be merged and applied in the new version
 
