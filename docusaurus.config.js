@@ -81,7 +81,7 @@ const config = {
               },
               {
                 label: 'Modules',
-                to: '/docs/modules',
+                to: '/docs/category/modules',
               },
             ],
           },
