@@ -23,7 +23,7 @@ const FeatureList = [
     title: 'Open source',
     description: (
       <>
-        This is an open-source and fully safe library. You can report an issue, give us update ideas, create pull requests that can later be merged and added into the latest update
+        This is an open-source and fully safe library. You can report an issue, give us update ideas, create pull requests that can later be merged and added into the latest update.
       </>
     ),
   },
