@@ -12,10 +12,10 @@ This is an open source library, so you can always fork it or make a pull request
 
 ## Installation
 ```shell
-pip install https://github.com/ProgramingHelp/Programing-help_Framework 
+pip install git+https://github.com/ProgramingHelp/Programing-help_Framework
 ```
 
 ## Upgrade
 ```shell
-pip install https://github.com/ProgramingHelp/Programing-help_Framework --upgrade
+pip install git+https://github.com/ProgramingHelp/Programing-help_Framework --upgrade
 ```
